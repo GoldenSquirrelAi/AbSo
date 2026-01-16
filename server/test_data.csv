@@ -1,0 +1,101 @@
+FirstName,LastName,Address,Apt/Unit,City,State,Zipcode,Address City State Zip,Telephone number
+Resident,One,2799 Shield St,,North Las Vegas,NV,89030,"2799 Shield St, North Las Vegas NV 89030",555-010-0001
+Resident,Two,4756 N Chieftain St,,Las Vegas,NV,89129,"4756 N Chieftain St, Las Vegas NV 89129",555-010-0002
+Resident,Three,9017 Grove Crest Ln,,Las Vegas,NV,89134,"9017 Grove Crest Ln, Las Vegas NV 89134",555-010-0003
+Resident,Four,11290 Sandstone Peak Dr,,Las Vegas,NV,89124,"11290 Sandstone Peak Dr, Las Vegas NV 89124",555-010-0004
+Resident,Five,7708 Vista Hills Dr,,Las Vegas,NV,89128,"7708 Vista Hills Dr, Las Vegas NV 89128",555-010-0005
+Resident,Six,11388 Orazio Dr,,Las Vegas,NV,89138,"11388 Orazio Dr, Las Vegas NV 89138",555-010-0006
+Resident,Seven,204 Luxaire Ct,,Las Vegas,NV,89144,"204 Luxaire Ct, Las Vegas NV 89144",555-010-0007
+Resident,Eight,10353 Niagara Falls Ln,,Las Vegas,NV,89144,"10353 Niagara Falls Ln, Las Vegas NV 89144",555-010-0008
+Resident,Nine,901 Allister Fields Ln,,Las Vegas,NV,89138,"901 Allister Fields Ln, Las Vegas NV 89138",555-010-0009
+Resident,Ten,7625 Almeria Ave,,Las Vegas,NV,89128,"7625 Almeria Ave, Las Vegas NV 89128",555-010-0010
+Resident,Eleven,11832 Barcinas Ln,,Las Vegas,NV,89138,"11832 Barcinas Ln, Las Vegas NV 89138",555-010-0011
+Resident,Twelve,10782 White Clay Dr,,Las Vegas,NV,89135,"10782 White Clay Dr, Las Vegas NV 89135",555-010-0012
+Resident,Thirteen,2320 Sunrise Meadows Dr,,Las Vegas,NV,89134,"2320 Sunrise Meadows Dr, Las Vegas NV 89134",555-010-0013
+Resident,Fourteen,1532 Waterton Dr,,Las Vegas,NV,89144,"1532 Waterton Dr, Las Vegas NV 89144",555-010-0014
+Resident,Fifteen,2208 Fiero Dr,,Las Vegas,NV,89134,"2208 Fiero Dr, Las Vegas NV 89134",555-010-0015
+Resident,Sixteen,10524 India Hawthorn Ave,,Las Vegas,NV,89144,"10524 India Hawthorn Ave, Las Vegas NV 89144",555-010-0016
+Resident,Seventeen,9141 Las Manaitas Ave #202,,Las Vegas,NV,89144,"9141 Las Manaitas Ave #202, Las Vegas NV 89144",555-010-0017
+Resident,Eighteen,10192 Juniper Creek Ln,,Las Vegas,NV,89145,"10192 Juniper Creek Ln, Las Vegas NV 89145",555-010-0018
+Resident,Nineteen,8205 Ruby Mountain Way,,Las Vegas,NV,89128,"8205 Ruby Mountain Way, Las Vegas NV 89128",555-010-0019
+Resident,Twenty,882 Cherry Glen Pl,,Las Vegas,NV,89138,"882 Cherry Glen Pl, Las Vegas NV 89138",555-010-0020
+Resident,TwentyOne,1804 Passerine St,,Las Vegas,NV,89138,"1804 Passerine St, Las Vegas NV 89138",555-010-0021
+Resident,TwentyTwo,63 Midnight Sky Dr,,Las Vegas,NV,89135,"63 Midnight Sky Dr, Las Vegas NV 89135",555-010-0022
+Resident,TwentyThree,10637 Patina Hills Ct,,Las Vegas,NV,89135,"10637 Patina Hills Ct, Las Vegas NV 89135",555-010-0023
+Resident,TwentyFour,11456 Opal Springs Way,,Las Vegas,NV,89135,"11456 Opal Springs Way, Las Vegas NV 89135",555-010-0024
+Resident,TwentyFive,11588 Stardust Dr,,Las Vegas,NV,89135,"11588 Stardust Dr, Las Vegas NV 89135",555-010-0025
+Resident,TwentySix,2043 Ardilea St,,Las Vegas,NV,89135,"2043 Ardilea St, Las Vegas NV 89135",555-010-0026
+Resident,TwentySeven,5 Promontory Pointe Ln,,Las Vegas,NV,89135,"5 Promontory Pointe Ln, Las Vegas NV 89135",555-010-0027
+Resident,TwentyEight,21 Drifting Shadow Way,,Las Vegas,NV,89135,"21 Drifting Shadow Way, Las Vegas NV 89135",555-010-0028
+Resident,TwentyNine,11 Hawkeye Ln,,Las Vegas,NV,89135,"11 Hawkeye Ln, Las Vegas NV 89135",555-010-0029
+Resident,Thirty,1995 Alcova Ridge Dr,,Las Vegas,NV,89135,"1995 Alcova Ridge Dr, Las Vegas NV 89135",555-010-0030
+Resident,ThirtyOne,2664 Chantemar St,,Las Vegas,NV,89135,"2664 Chantemar St, Las Vegas NV 89135",555-010-0031
+Resident,ThirtyTwo,44 Hawk Ridge Dr,,Las Vegas,NV,89135,"44 Hawk Ridge Dr, Las Vegas NV 89135",555-010-0032
+Resident,ThirtyThree,10911 Discovery Peak Ct,,Las Vegas,NV,89135,"10911 Discovery Peak Ct, Las Vegas NV 89135",555-010-0033
+Resident,ThirtyFour,3857 Placita Del Lazo,,Las Vegas,NV,89120,"3857 Placita Del Lazo, Las Vegas NV 89120",555-010-0034
+Resident,ThirtyFive,8104 Bronze Treasure Ct,,Las Vegas,NV,89143,"8104 Bronze Treasure Ct, Las Vegas NV 89143",555-010-0035
+Resident,ThirtySix,205 E Harmon Ave #508,,Las Vegas,NV,89169,"205 E Harmon Ave #508, Las Vegas NV 89169",555-010-0036
+Resident,ThirtySeven,7744 Orchard Wood Ct,,Las Vegas,NV,89131,"7744 Orchard Wood Ct, Las Vegas NV 89131",555-010-0037
+Resident,ThirtyEight,6781 Alpine Brooks Ave,,Las Vegas,NV,89130,"6781 Alpine Brooks Ave, Las Vegas NV 89130",555-010-0038
+Resident,ThirtyNine,3713 Metter St,,Las Vegas,NV,89129,"3713 Metter St, Las Vegas NV 89129",555-010-0039
+Resident,Forty,10385 Wedgedale Ave,,Las Vegas,NV,89166,"10385 Wedgedale Ave, Las Vegas NV 89166",555-010-0040
+Resident,FortyOne,8053 Glimmerglass Ave,,Las Vegas,NV,89178,"8053 Glimmerglass Ave, Las Vegas NV 89178",555-010-0041
+Resident,FortyTwo,5001 N Cimarron Rd,,Las Vegas,NV,89149,"5001 N Cimarron Rd, Las Vegas NV 89149",555-010-0042
+Resident,FortyThree,7468 Treasure Chest St,,Las Vegas,NV,89139,"7468 Treasure Chest St, Las Vegas NV 89139",555-010-0043
+Resident,FortyFour,3096 Zane Cir,,Las Vegas,NV,89121,"3096 Zane Cir, Las Vegas NV 89121",555-010-0044
+Resident,FortyFive,3971 Lariat Ct,,Las Vegas,NV,89121,"3971 Lariat Ct, Las Vegas NV 89121",555-010-0045
+Resident,FortySix,4906 Mar Vista Way,,Las Vegas,NV,89121,"4906 Mar Vista Way, Las Vegas NV 89121",555-010-0046
+Resident,FortySeven,2858 Puenta St,,Las Vegas,NV,89121,"2858 Puenta St, Las Vegas NV 89121",555-010-0047
+Resident,FortyEight,4851 La Fonda Dr,,Las Vegas,NV,89121,"4851 La Fonda Dr, Las Vegas NV 89121",555-010-0048
+Resident,FortyNine,4529 Paseo Del Ray Dr,,Las Vegas,NV,89121,"4529 Paseo Del Ray Dr, Las Vegas NV 89121",555-010-0049
+Resident,Fifty,4574 Sheri Lyn Ct,,Las Vegas,NV,89121,"4574 Sheri Lyn Ct, Las Vegas NV 89121",555-010-0050
+Resident,FiftyOne,2482 Swan Ln,,Las Vegas,NV,89121,"2482 Swan Ln, Las Vegas NV 89121",555-010-0051
+Resident,FiftyTwo,3130 Plaza St,,Las Vegas,NV,89121,"3130 Plaza St, Las Vegas NV 89121",555-010-0052
+Resident,FiftyThree,3659 Descanso St,,Las Vegas,NV,89121,"3659 Descanso St, Las Vegas NV 89121",555-010-0053
+Resident,FiftyFour,4715 Monaco Rd,,Las Vegas,NV,89121,"4715 Monaco Rd, Las Vegas NV 89121",555-010-0054
+Resident,FiftyFive,4870 Summerhill Rd,,Las Vegas,NV,89121,"4870 Summerhill Rd, Las Vegas NV 89121",555-010-0055
+Resident,FiftySix,2979 S Mojave Rd,,Las Vegas,NV,89121,"2979 S Mojave Rd, Las Vegas NV 89121",555-010-0056
+Resident,FiftySeven,3905 Chinchilla Ave,,Las Vegas,NV,89121,"3905 Chinchilla Ave, Las Vegas NV 89121",555-010-0057
+Resident,FiftyEight,1111 Frye Mesa Ave,,North Las Vegas,NV,89086,"1111 Frye Mesa Ave, North Las Vegas NV 89086",555-010-0058
+Resident,FiftyNine,108 Rosa Rosales Ct,,North Las Vegas,NV,89031,"108 Rosa Rosales Ct, North Las Vegas NV 89031",555-010-0059
+Resident,Sixty,4655 Zodiac Sky Ave #1,,North Las Vegas,NV,89084,"4655 Zodiac Sky Ave #1, North Las Vegas NV 89084",555-010-0060
+Resident,SixtyOne,2109 Red Gate Ave,,North Las Vegas,NV,89081,"2109 Red Gate Ave, North Las Vegas NV 89081",555-010-0061
+Resident,SixtyTwo,2122 Thelen Ave,,North Las Vegas,NV,89086,"2122 Thelen Ave, North Las Vegas NV 89086",555-010-0062
+Resident,SixtyThree,3813 Rocklin Peak Ave,,North Las Vegas,NV,89081,"3813 Rocklin Peak Ave, North Las Vegas NV 89081",555-010-0063
+Resident,SixtyFour,3605 Broadway Ave,,North Las Vegas,NV,89030,"3605 Broadway Ave, North Las Vegas NV 89030",555-010-0064
+Resident,SixtyFive,7324 Halo Falls St,,North Las Vegas,NV,89084,"7324 Halo Falls St, North Las Vegas NV 89084",555-010-0065
+Resident,SixtySix,7332 N Decatur Blvd #2,,North Las Vegas,NV,89084,"7332 N Decatur Blvd #2, North Las Vegas NV 89084",555-010-0066
+Resident,SixtySeven,4606 Pointleaf St,,North Las Vegas,NV,89032,"4606 Pointleaf St, North Las Vegas NV 89032",555-010-0067
+Resident,SixtyEight,3418 Ocatillo Mesa Way,,North Las Vegas,NV,89031,"3418 Ocatillo Mesa Way, North Las Vegas NV 89031",555-010-0068
+Resident,SixtyNine,6109 Musas Gdn,,North Las Vegas,NV,89081,"6109 Musas Gdn, North Las Vegas NV 89081",555-010-0069
+Resident,Seventy,1628 Desert Path Ave,,North Las Vegas,NV,89032,"1628 Desert Path Ave, North Las Vegas NV 89032",555-010-0070
+Resident,SeventyOne,13 Britz Cir,,North Las Vegas,NV,89031,"13 Britz Cir, North Las Vegas NV 89031",555-010-0071
+Resident,SeventyTwo,3513 Beebe Ct,,North Las Vegas,NV,89032,"3513 Beebe Ct, North Las Vegas NV 89032",555-010-0072
+Resident,SeventyThree,629 Ship Wrecked Way,,North Las Vegas,NV,89084,"629 Ship Wrecked Way, North Las Vegas NV 89084",555-010-0073
+Resident,SeventyFour,7704 Miller Falls Ln,,North Las Vegas,NV,89084,"7704 Miller Falls Ln, North Las Vegas NV 89084",555-010-0074
+Resident,SeventyFive,5942 Village Loft St,,North Las Vegas,NV,89081,"5942 Village Loft St, North Las Vegas NV 89081",555-010-0075
+Resident,SeventySix,4332 Meadow Glade Ave,,North Las Vegas,NV,89081,"4332 Meadow Glade Ave, North Las Vegas NV 89081",555-010-0076
+Resident,SeventySeven,7713 Lily Trotter St,,North Las Vegas,NV,89084,"7713 Lily Trotter St, North Las Vegas NV 89084",555-010-0077
+Resident,SeventyEight,6247 Fort Worth St,,North Las Vegas,NV,89081,"6247 Fort Worth St, North Las Vegas NV 89081",555-010-0078
+Resident,SeventyNine,2471 Walsh Glen Ct,,Henderson,NV,89052,"2471 Walsh Glen Ct, Henderson NV 89052",555-010-0079
+Resident,Eighty,47 Reflection Cove Dr,,Henderson,NV,89011,"47 Reflection Cove Dr, Henderson NV 89011",555-010-0080
+Resident,EightyOne,1795 Nuevo Rd,,Henderson,NV,89014,"1795 Nuevo Rd, Henderson NV 89014",555-010-0081
+Resident,EightyTwo,351 Espressivo St,,Henderson,NV,89011,"351 Espressivo St, Henderson NV 89011",555-010-0082
+Resident,EightyThree,2829 Via Florentine St,,Henderson,NV,89074,"2829 Via Florentine St, Henderson NV 89074",555-010-0083
+Resident,EightyFour,976 Sable Chase Pl,,Henderson,NV,89011,"976 Sable Chase Pl, Henderson NV 89011",555-010-0084
+Resident,EightyFive,1589 Sabatini Dr,,Henderson,NV,89052,"1589 Sabatini Dr, Henderson NV 89052",555-010-0085
+Resident,EightySix,471 Serenity Point Dr,,Henderson,NV,89012,"471 Serenity Point Dr, Henderson NV 89012",555-010-0086
+Resident,EightySeven,3733 Battipaglia Ave,,Henderson,NV,89044,"3733 Battipaglia Ave, Henderson NV 89044",555-010-0087
+Resident,EightyEight,409 Hightop Ln,,Henderson,NV,89002,"409 Hightop Ln, Henderson NV 89002",555-010-0088
+Resident,EightyNine,181 Sierra Alta Pl,,Henderson,NV,89015,"181 Sierra Alta Pl, Henderson NV 89015",555-010-0089
+Resident,Ninety,174 Wentworth Dr,,Henderson,NV,89074,"174 Wentworth Dr, Henderson NV 89074",555-010-0090
+Resident,NinetyOne,331 Mount Hope St,,Henderson,NV,89014,"331 Mount Hope St, Henderson NV 89014",555-010-0091
+Resident,NinetyTwo,710 Greenway Rd,,Henderson,NV,89002,"710 Greenway Rd, Henderson NV 89002",555-010-0092
+Resident,NinetyThree,1527 Maria Crossing Ave,,Henderson,NV,89002,"1527 Maria Crossing Ave, Henderson NV 89002",555-010-0093
+Resident,NinetyFour,907 N Major Ave,,Henderson,NV,89015,"907 N Major Ave, Henderson NV 89015",555-010-0094
+Resident,NinetyFive,1732 Porta Volta,,Henderson,NV,89011,"1732 Porta Volta, Henderson NV 89011",555-010-0095
+Resident,NinetySix,517 Francesca Crst,,Henderson,NV,89011,"517 Francesca Crst, Henderson NV 89011",555-010-0096
+Resident,NinetySeven,2655 Sunrise Mist Pl,,Henderson,NV,89044,"2655 Sunrise Mist Pl, Henderson NV 89044",555-010-0097
+Resident,NinetyEight,536 Close Ave,,Henderson,NV,89011,"536 Close Ave, Henderson NV 89011",555-010-0098
+Resident,NinetyNine,5983 Trickling Descent St #102,,Henderson,NV,89011,"5983 Trickling Descent St #102, Henderson NV 89011",555-010-0099
+Resident,OneHundred,2784 Cherrydale Falls Dr,,Henderson,NV,89074,"2784 Cherrydale Falls Dr, Henderson NV 89074",555-010-0100
